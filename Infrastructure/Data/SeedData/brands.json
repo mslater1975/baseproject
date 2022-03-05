@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Name": "Woodburning"
+  },
+  {
+    "Id": 2,
+    "Name": "Multifuel"
+  },
+  {
+    "Id": 3,
+    "Name": "Both"
+  }
+]
